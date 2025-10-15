@@ -1,0 +1,17 @@
+# Ignore data files
+*.csv
+*.xlsx
+*.xls
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment & cache files
+__pycache__/
+*.pkl
+*.zip
+*.rar
+
+# System files
+.DS_Store
+Thumbs.db
